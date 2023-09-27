@@ -1,4 +1,7 @@
 # LumineConverter
+
+### This project is abandoned due to limitations in the apis
+
 Convert Apple Music Playlists to Spotify Playlists
 
 ### Usage
